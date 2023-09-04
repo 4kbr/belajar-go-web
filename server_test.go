@@ -7,5 +7,5 @@ import (
 
 func TestServer(t *testing.T) {
 	fmt.Println("ini test")
-	fmt.Println("test jgua")
+	fmt.Println("test juga")
 }
